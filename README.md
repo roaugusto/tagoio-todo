@@ -1,8 +1,3 @@
-## Exemplo do Projeto em:
-
-[https://tagoio-todo.herokuapp.com/](https://tagoio-todo.herokuapp.com/)
-
-
 ## Sobre o Projeto
 
 Este projeto foi iniciado com [Create React App](https://github.com/facebook/create-react-app).
@@ -21,6 +16,9 @@ E para execução:
 ```
 yarn start
 ```
+## Exemplo do Projeto disponível em:
+
+[https://tagoio-todo.herokuapp.com/](https://tagoio-todo.herokuapp.com/)
 
 ## Contribuições
 Contribuições são bem vindas. Qualquer dúvida, entre em contato.
