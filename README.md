@@ -18,7 +18,7 @@ yarn start
 ```
 ## Exemplo do Projeto disponível em:
 
-[https://tagoio-todo.herokuapp.com/](https://tagoio-todo.herokuapp.com/){:target="_blank"}
+[https://tagoio-todo.herokuapp.com/](https://tagoio-todo.herokuapp.com/)
 
 ## Contribuições
 Contribuições são bem vindas. Qualquer dúvida, entre em contato.
